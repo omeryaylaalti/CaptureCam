@@ -1,0 +1,3 @@
+C:\Users\omer\AndroidStudioProjects\Deneme\app\build\intermediates\classes\debug
+C:\Users\omer\AndroidStudioProjects\Deneme\app\build\intermediates\pre-dexed\debug\classes-06bc0d477bfcb330ce20a671c04ac0d6323685d8.jar
+C:\Users\omer\AndroidStudioProjects\Deneme\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-22ea6a5eaf971d66d60a3e415a30278147fd21ad.jar
